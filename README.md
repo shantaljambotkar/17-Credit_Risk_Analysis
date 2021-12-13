@@ -34,6 +34,8 @@ Once the performance of all 6 models are evaluated a written recommendation will
 
 ### 6. Easy Ensemble AdaBoost Classifier
 
+![Easy Ensemble AdaBoost Classifier](images/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+
 
 ## Summary:
 
@@ -44,6 +46,6 @@ Once the performance of all 6 models are evaluated a written recommendation will
 | Undersampling | 0.51| 0.44|
 | Combination (Over and Under) Sampling | 0.638| 0.57|
 | Balance Ramdom Forest Classifer |0.888|0.89|
-| Easy Ensemble AdaBoost Classifier |        |       |
+| Easy Ensemble AdaBoost Classifier |0.925|0.91|
 
-Based on the accuracy and sesitivity data, Balance ramdom Forest Classifier should be used.
+Based on the accuracy and sesitivity data, Easy Ensemble AdaBoost Classifier should be used.
